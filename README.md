@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://rayt3ch-portfolio.pages.dev/](https://rayt3ch-portfolio.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://rayt3ch.vercel.app/](https://rayt3ch.vercel.app/)
 
 - 💬 Ask me about **react JS, react Native, Express Js, Node JS etc.**
 
