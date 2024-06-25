@@ -1,6 +1,6 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/07/Banner-Introduction-to-Coding.png)
 <h1 align="center">Hi 👋, I'm Oluwafemi Micheal</h1>
-<h3 align="center">A Passionate Frontend Developer with a keen eye for user-centric design and a knack for turning creative concepts into seamless, responsive web experiences.</h3>
+<h3 align="center">A Passionate Frontend Developer with a keen eye for user-centric design and the ability to transform creative concepts into seamless, responsive web experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micheal-oluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="micheal-oluwafemi" /> </p>
 
