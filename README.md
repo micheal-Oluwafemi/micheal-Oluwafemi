@@ -1,7 +1,7 @@
 <img src="banner_github.webp" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Micheal, a Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.raythedev-links.vercel.app) <br>👨🏼‍🎓 studied computer science at Lagos State University<br>👨🏼‍💻 working as a web developer since 2022 
+🛜 currently working on my own [webpage](https://www.raythedev-links.vercel.app) <br>🤖 delving into the fascinating world of artificial intelligence <br>👨🏼‍💻 working as a web developer since 2022 
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=micheal-oluwafemi&label=Profile%20views&color=0e75b6&style=flat" alt="micheal-oluwafemi" /> </span>
 <span align="left"> <a href="https://twitter.com/ray_t3ch" target="blank"><img src="https://img.shields.io/twitter/follow/ray_t3ch?logo=twitter&style=for-the-badge" alt="ray_t3ch" /></a> </span>
